@@ -124,7 +124,7 @@ class Reservation extends Component {
                         this.resetForm();
                     }}
                 >
-                    <View state={styles.modal}>
+                    <View style={styles.modal}>
                         <Text style={styles.modalTitle}>Your Reservation</Text>
                         <Text style={styles.modalText}>
                             Number of Guests: {this.state.guests}
