@@ -2406,6 +2406,11 @@ expo@^30.0.1:
     uuid-js "^0.7.5"
     whatwg-fetch "^2.0.4"
 
+expokit@1.7.1:
+  version "1.7.1"
+  resolved "http://registry.npm.taobao.org/expokit/download/expokit-1.7.1.tgz#bf9922bdcb6bc54b47752d26761885b46e18ede1"
+  integrity sha1-v5kivctrxUtHdS0mdhiFtG4Y7eE=
+
 extend-shallow@^1.1.2:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/extend-shallow/-/extend-shallow-1.1.4.tgz#19d6bf94dfc09d76ba711f39b872d21ff4dd9071"
